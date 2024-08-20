@@ -12,17 +12,17 @@ I recommend keeping only 1 GitHub account so your contribution graph is full of 
 ## How to update your profile
 Please set a profile image and display name using your first and last name so it's easy to tag you. Here are the steps to update your 'display name' and avatar:
 
-1. Navigate to your profile page.
+### 1. Navigate to your profile page.
 
 ![](/assets/nav.png)
 
 ![](/assets/your-profile-link.png)
 
-2. Click 'edit profile'
+### 2. Click 'edit profile'
 
 ![](/assets/edit-profile-link.png)
 
-3. Edit 'display name' and upload avatar, then click 'save'
+### 3. Edit 'display name' and upload avatar, then click 'save'
 
 ![](/assets/edit-display-name.png)
 
