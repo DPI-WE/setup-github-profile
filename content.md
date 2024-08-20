@@ -1,23 +1,31 @@
-# Replace with lesson title
+# Setup your GitHub Profile
 
-Add your content here!
+## Why setup your profile?
+Your GitHub profile is like a software engineering resume. This is my [GitHub profile](https://github.com/heratyian). It's important for employers, clients, teammates, etc. to know it's you. As you write and contribute code to GitHub, your contribution graph will grow.
 
-[Read up here for full instructions with examples for lesson writing.](https://learn.firstdraft.com/lessons/3-how-to-write-a-lesson)
+![](assets/graph.png)
 
-## Heading 1
+<aside>
+I recommend keeping only 1 GitHub account so your contribution graph is full of green. You can create organizations to separate your repositories.
+</aside>
 
-Use `##` second or greater level headings (HTML `<h2>` and greater).
+## How to update your profile
+Please set a profile image and display name using your first and last name so it's easy to tag you. Here are the steps to update your 'display name' and avatar:
 
-### Heading 1.1
+1. Navigate to your profile page.
 
-Reference images from the `assets/` folder like so:
+![](assets/nav.png)
 
-```
-![](assets/example-image.png)
-```
+![](assets/your-profile-link.png)
 
-You can use the path `/assets/my-image.png` or `assets/my-image.png`, both will render in your local markdown preview; and when you connect the repository with a Learn Lesson, the assets will upload to Cloudinary and the paths will automatically be converted to a hosted URL, e.g.:
+2. Click 'edit profile'
 
-```
-![](https://res.cloudinary.com/[CLOUD_NAME]/image/upload/[IMAGE_VERSION]/appdev-lessons/[REPO_NAME]/[BRANCH]/[IMAGE_NAME])
-```
+![](assets/edit-profile-link.png)
+
+3. Edit 'display name' and upload avatar, then click 'save'
+
+![](assets/edit-display-name.png)
+
+Please sign up for GitHub and share your profile page. It should be something like this `github.com/<username>`.
+
+<!-- TODO: write question and handle submissions -->
